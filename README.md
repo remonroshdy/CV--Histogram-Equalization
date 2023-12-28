@@ -1,1 +1,1 @@
-# Computer Vision --Histogram-Equalization
+# Computer Vision --Histogram-Equalization - & Histogram Matching 
