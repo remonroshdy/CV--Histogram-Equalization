@@ -1,1 +1,1 @@
-# CV--Histogram-Equalization
+# Computer Vision --Histogram-Equalization
